@@ -20,7 +20,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "test:cypress": "cypress open"
+    "test:cypress": "cypress open",
+    "test:cypress-record": "cypress run --record --key b98cd99a-503a-431f-a617-4e78d33db93c"
   },
   "devDependencies": {
     "cypress": "^3.7.0",
