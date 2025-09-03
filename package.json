@@ -10,7 +10,7 @@
     "react-lazy-load": "^3.0.13",
     "react-rangeslider": "^2.2.0",
     "react-redux": "^5.0.7",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "^5.0.1",
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0",
     "styled-components": "^3.3.3"
@@ -24,7 +24,7 @@
     "test:cypress-record": "cypress run --record --key b98cd99a-503a-431f-a617-4e78d33db93c"
   },
   "devDependencies": {
-    "cypress": "^3.7.0",
+    "cypress": "^14.5.2",
     "redux-devtools-extension": "^2.13.5"
   },
   "browserslist": [
